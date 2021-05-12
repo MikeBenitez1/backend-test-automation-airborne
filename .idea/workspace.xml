@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a61c62c4-2ba5-44c2-be0f-87d079dc461f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1s81xJIxQGOw6arUbL41bCSjnMf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="test" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="airborne_api_testing_example" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Todoist_API_tests" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Todoist_API_tests/test.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Ruby.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a61c62c4-2ba5-44c2-be0f-87d079dc461f" name="Default Changelist" comment="" />
+      <created>1620239647951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620239647951</updated>
+      <workItem from="1620239649461" duration="8271000" />
+      <workItem from="1620256497628" duration="23335000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1281" y="262" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620239869124">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1281" y="262" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620239869124" />
+    <state width="1651" height="220" key="GridCell.Tab.0.bottom" timestamp="1620256383526">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1651" height="220" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620256383526" />
+    <state width="1651" height="220" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620246417854" />
+    <state width="1651" height="220" key="GridCell.Tab.0.center" timestamp="1620256383525">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1651" height="220" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620256383525" />
+    <state width="1651" height="220" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620246417853" />
+    <state width="1651" height="220" key="GridCell.Tab.0.left" timestamp="1620256383525">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1651" height="220" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620256383525" />
+    <state width="1651" height="220" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620246417853" />
+    <state width="1651" height="220" key="GridCell.Tab.0.right" timestamp="1620256383526">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1651" height="220" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620256383526" />
+    <state width="1651" height="220" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620246417853" />
+    <state x="-1335" y="285" width="639" height="476" key="find.popup" timestamp="1620250287429">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1335" y="285" width="639" height="476" key="find.popup/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620250287429" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/airborne_api_testing_example@test.rcov" NAME="test Coverage Results" MODIFIED="1620246417824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Todoist_API_Tests" MODULE_NAME="airborne_api_testing_example" />
+  </component>
+</project>
