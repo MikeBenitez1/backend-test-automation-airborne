@@ -1,0 +1,3 @@
+tokens_values:
+  valid_token: <%= ENV['VALID_TOKEN'] %>
+

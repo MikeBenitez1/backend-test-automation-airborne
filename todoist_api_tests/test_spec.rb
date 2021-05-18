@@ -1,5 +1,5 @@
 # POST requests
-describe 'POST_create_a_new_task' do
+describe 'POST_create_a_new_task', regression: true do
 
   body = { content: 'Buy Milk and Rice',
            due_string: 'tomorrow at 12:00',
@@ -21,7 +21,7 @@ describe 'POST_create_a_new_task' do
 end
 
 # GET requests
-describe 'GET_active_task' do
+describe 'GET_active_task', regression: true do
 
   it 'Validate status code is 2xx' do
     get "/#{$task_id}"
@@ -44,7 +44,7 @@ describe 'GET_active_task' do
 end
 
 # DELETE requests
-describe 'DELETE_active_task' do
+describe 'DELETE_active_task', regression: true do
 
   it 'Validate status code is 2xx' do
     delete "/#{$task_id}",
