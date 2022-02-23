@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a61c62c4-2ba5-44c2-be0f-87d079dc461f" name="Default Changelist" comment="" />
+    <list default="true" id="a61c62c4-2ba5-44c2-be0f-87d079dc461f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/airborne_api_testing_example.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/airborne_api_testing_example.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rspec" beforeDir="false" afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ruby-version" beforeDir="false" afterPath="$PROJECT_DIR$/.ruby-version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spec/spec_helper.rb" beforeDir="false" afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,20 +34,24 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/todoist_api_tests" />
+      <recent name="$PROJECT_DIR$/config" />
       <recent name="$PROJECT_DIR$" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/spec" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="test" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="test_spec" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="airborne_api_testing_example" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/Todoist_API_tests" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/todoist_api_tests" />
       <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
       <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
       <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
@@ -48,13 +62,13 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Todoist_API_tests/test.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/todoist_api_tests/test_spec.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.test" />
+        <item itemvalue="Ruby.test_spec" />
       </list>
     </recent_temporary>
   </component>
@@ -85,6 +99,12 @@
       <workItem from="1620256497628" duration="23335000" />
       <workItem from="1620939416913" duration="947000" />
       <workItem from="1621035049872" duration="6622000" />
+      <workItem from="1621276461835" duration="10663000" />
+      <workItem from="1621612608498" duration="1282000" />
+      <workItem from="1621912127667" duration="161000" />
+      <workItem from="1621912336646" duration="103000" />
+      <workItem from="1622672543745" duration="28000" />
+      <workItem from="1645637015697" duration="5250000" />
     </task>
     <servers />
   </component>
@@ -92,34 +112,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-1281" y="262" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1620239869124">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state x="457" y="182" key="SettingsEditor" timestamp="1645637327367">
+      <screen x="0" y="25" width="1920" height="979" />
     </state>
-    <state x="-1281" y="262" key="#com.intellij.fileTypes.FileTypeChooser/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620239869124" />
-    <state width="1651" height="220" key="GridCell.Tab.0.bottom" timestamp="1620256383526">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1651" height="220" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620256383526" />
-    <state width="1651" height="220" key="GridCell.Tab.0.bottom/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620246417854" />
-    <state width="1651" height="220" key="GridCell.Tab.0.center" timestamp="1620256383525">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1651" height="220" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620256383525" />
-    <state width="1651" height="220" key="GridCell.Tab.0.center/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620246417853" />
-    <state width="1651" height="220" key="GridCell.Tab.0.left" timestamp="1620256383525">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1651" height="220" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620256383525" />
-    <state width="1651" height="220" key="GridCell.Tab.0.left/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620246417853" />
-    <state width="1651" height="220" key="GridCell.Tab.0.right" timestamp="1620256383526">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state width="1651" height="220" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.984@-1920.23.1920.1057" timestamp="1620256383526" />
-    <state width="1651" height="220" key="GridCell.Tab.0.right/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620246417853" />
-    <state x="-1335" y="285" width="639" height="476" key="find.popup" timestamp="1620250287429">
-      <screen x="-1920" y="23" width="1920" height="1057" />
-    </state>
-    <state x="-1335" y="285" width="639" height="476" key="find.popup/-1920.23.1920.1057/0.23.1920.986@-1920.23.1920.1057" timestamp="1620250287429" />
+    <state x="457" y="182" key="SettingsEditor/0.25.1920.979/1920.25.1920.1055@0.25.1920.979" timestamp="1645637327367" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/airborne_api_testing_example@test.rcov" NAME="test Coverage Results" MODIFIED="1620246417824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Todoist_API_Tests" MODULE_NAME="airborne_api_testing_example" />

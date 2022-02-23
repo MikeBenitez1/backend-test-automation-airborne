@@ -1,6 +1,11 @@
+# Custom
+.idea
+vendor
+
 # Used by dotenv library to load environment variables.
 *.env
 
 # Reports files and folders
 /reports
+*.json
 

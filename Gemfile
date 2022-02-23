@@ -6,6 +6,6 @@ gem 'coderay'
 gem 'dotenv', '~>2.7.5'
 gem 'require_all'
 gem 'rspec'
-gem 'rspec_html_reporter'
 gem 'rubocop'
 gem 'standard'
+
