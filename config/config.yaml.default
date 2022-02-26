@@ -1,3 +1,5 @@
 tokens_values:
   valid_token: <%= ENV['VALID_TOKEN'] %>
+base_urls:
+  todoist_api: https://api.todoist.com
 

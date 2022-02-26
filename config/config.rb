@@ -9,7 +9,7 @@ module Config
   ENV_FILE = "./config/#{ENV['KEYS']}.env".freeze
   ENV_REQUIRED = './config/environment.env.default'.freeze
 
-  CONFIG_KEYS = %w[tokens_values].freeze
+  CONFIG_KEYS = %w[tokens_values base_urls].freeze
 
   # Loads required environment file, using this way is not required config.yaml
   # This improves CI implementation using environment variables instead config.yaml values
