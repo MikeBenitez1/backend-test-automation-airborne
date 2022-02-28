@@ -1,5 +1,5 @@
 # backend-test-automation-airborne
-Basic personal API test automation project with Airborne (RSpec driven framework) (RSpec driven framework) https://github.com/brooklynDev/airborne.
+Basic personal API test automation project with Airborne (RSpec driven framework) https://github.com/brooklynDev/airborne.
 
 
 
