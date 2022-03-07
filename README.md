@@ -1,17 +1,12 @@
 # backend-test-automation-airborne
-Basic personal API test automation project with Airborne (RSpec driven framework) https://github.com/brooklynDev/airborne.
+Personal basic project to practice API test automation with Airborne (RSpec driven framework https://github.com/brooklynDev/airborne) for https://todoist.com/app/ API.
 
 
-
-## Setup
+## Getting Started
 * You just need to get your personal API token from https://todoist.com/app/settings/integrations 
- and paste it in a `keys.env` file in `/config` folder:
+ and paste it in a `keys.env` file in `/config` folder in this format e.g: `VALID_TOKEN = 1111010101gdgdgd88`
  
- ```
- e.g VALID_TOKEN = 1111010101gdgdgd88
- ```
- 
- * Then export the `keys.env` file with env variables with this command from terminal:
+ * Then export the `keys.env` file with this command from terminal:
 ```
 export KEYS=keys
 ```
