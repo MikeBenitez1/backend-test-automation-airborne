@@ -1,6 +1,7 @@
 # backend-test-automation-airborne
 Personal basic project to practice API test automation with Airborne (RSpec driven framework https://github.com/brooklynDev/airborne) for https://todoist.com/app/ API.
 
+![execution](https://user-images.githubusercontent.com/59778782/159395958-b857ec67-e0e6-49c9-91a5-e4b22dbcddff.gif)
 
 ## Getting Started
 * You just need to get your personal API token from https://todoist.com/app/settings/integrations 
